@@ -22,7 +22,7 @@ O Ministro do Turismo Brasileiro me fez as seguintes solicitações:
 
 4. Qual foi o dia mais custoso de Fevereiro de 2020?
 
-5. E Quais foram os Serviços/Fornecedores que estão Acima da Média de Investimento Bruto de Fevereiro de 2020? 
+5. E Quais foram os Serviços/Fornecedores que ficaram Acima da Média de Investimento Bruto de Fevereiro de 2020? 
 
 
 OBS2: As respostas estão localizadas neste repositório, no arquivo 'Respostas-Investimento-Publicidade-Turismo-BR'.
