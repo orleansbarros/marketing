@@ -7,7 +7,7 @@ Fonte: https://dados.gov.br/dados/conjuntos-dados/marketing-e-publicidade
 Ferramentas: SQL Server
 
 
-OBS1: Utilizei apenas a tabela 'FEVEREIRO PRODUÇÃO' para facilitar o entendimento da resolução dos problemas.
+OBS1: Utilizei apenas a tabela 'FEVEREIRO PRODUÇÃO' para facilitar o entendimento das resoluções dos problemas.
 
 
 [Situação fictícia]
