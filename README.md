@@ -1,9 +1,14 @@
 # marketing
+
 Contratos de Marketing e Publicidade - Ministério do Turismo - Governo Federal BR - 2020
+
 Fonte: https://dados.gov.br/dados/conjuntos-dados/marketing-e-publicidade
+
 Ferramentas: SQL Server
 
+
 OBS1: Utilizei apenas a tabela 'FEVEREIRO PRODUÇÃO' para facilitar o entendimento da resolução dos problemas.
+
 
 [Situação fictícia]
 
