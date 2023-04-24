@@ -12,7 +12,7 @@ OBS1: Utilizei apenas a tabela 'FEVEREIRO PRODUÇÃO' para facilitar o entendime
 
 [Situação fictícia]
 
-O Ministro do Turismo me fez as seguintes solicitações:
+O Ministro do Turismo do Brasil me fez as seguintes solicitações:
 
 1. Qual foi o Investimento Total Bruto em Publicidade na Produção de Fevereiro de 2020 por Agência?
 
